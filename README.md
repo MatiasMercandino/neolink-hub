@@ -35,4 +35,4 @@ El sistema cumple con el alcance solicitado por la dirección, permitiendo:
 4. **Validación:** Seguir los pasos detallados en `CHECKLIST_TESTS.md`.
 
 ---
-**Contacto Técnico:** Matias M. - CTO Neolink Hub Sprint Team
+**Contacto Técnico:** Matias M. 
