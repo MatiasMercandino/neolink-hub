@@ -1,0 +1,1 @@
+Este proyecto es un Marketplace B2B (NEOLINK HUB). Estándares: Arquitectura SaaS con microservicios en Node.js, API REST v1 (/api/v1/), Base de datos relacional y uso obligatorio de Conventional Commits (feat:, fix:).

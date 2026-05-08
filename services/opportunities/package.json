@@ -1,0 +1,29 @@
+{
+  "name": "@neolink-hub/opportunities-service",
+  "version": "1.0.0",
+  "description": "Microservicio de gestión de oportunidades de productos digitales — NEOLINK HUB",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.3.1",
+    "helmet": "^7.1.0",
+    "pg": "^8.11.5",
+    "uuid": "^9.0.1"
+  },
+  "keywords": [
+    "neolink-hub",
+    "marketplace",
+    "saas",
+    "opportunities"
+  ],
+  "license": "UNLICENSED",
+  "private": true
+}
